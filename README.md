@@ -21,6 +21,7 @@
     - [Indexes](#indexes)
     - [Partitioning](#partitioning)
     - [Performance Analysis](#performance-analysis)
+    - [Test](#test)
     - [Tools](#tools)
 - [Extension Hacking](#extension-hacking)
 
@@ -112,6 +113,10 @@
 - [PgCon 2019, Let's Dtrace Postgres](https://www.youtube.com/watch?v=Brt41xnMZqo) 📹 - Adam Wolk - [slides](https://www.pgcon.org/2019/schedule/attachments/541_Let's%20(D)Trace%20Postgres%20tracing%20the%20madness.pdf)
 - [Citus Con 2022, Analyzing Postgres performance problems using perf and eBPF](https://www.youtube.com/watch?v=HghP4D72Noc) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2022-04-12-cituscon/perf-bpf.pdf)
 - [PGConf.dev 2024, Analyzing cacheline contention using perf c2c](https://www.youtube.com/watch?v=dLrqQOCRFOU) 📹 - Andres Freund - [slides](https://anarazel.de/talks/2024-05-29-pgconf-dev-c2c/postgres-perf-c2c.pdf)
+
+### Test
+
+- [PGConf.dev 2025, Advanced testing with Injection Points](https://www.youtube.com/watch?v=e-kW02t7-E0) 📹 - Michael Paquier - [slides](https://www.pgevents.ca/events/pgconfdev2025/sessions/session/260/slides/50/pgconf2025_Injection_Points.pdf)
 
 ### Tools
 
