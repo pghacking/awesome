@@ -62,6 +62,7 @@
 
 - [pgsql-hackers](https://www.postgresql.org/list/pgsql-hackers/) - The PostgreSQL developers team lives here. Discussion of current development issues, problems and bugs, and proposed new features. If your question cannot be answered by people in the other lists, and it is likely that only a developer will know the answer, you may re-post your question in this list. You must try elsewhere first!
 - [Hackorum](https://hackorum.dev/) - A web-based archive and frontend for the PostgreSQL hackers mailing list.
+- [pgweekly](https://pgweekly.github.io/) - Postgres Weekly, A Hacker’s Digest of PostgreSQL hackers mailing list.
 - [pgsql-committers](https://www.postgresql.org/list/pgsql-committers/) - Notification of git commits are sent to this list. Do not post here!
 - [pgsql-bugs](https://www.postgresql.org/list/pgsql-bugs/) - If you find a bug, please use the [bug reporting form](http://www.postgresql.org/support/submitbug).
 - [Posting Your Patch On pgsql-hackers](https://rhaas.blogspot.com/2024/08/posting-your-patch-on-pgsql-hackers.html) - Robert Haas
