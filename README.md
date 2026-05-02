@@ -130,5 +130,4 @@
 ## Extension Hacking
 
 - [pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig.
 - [PGCon 2023, Writing a Foreign Data Wrapper](https://www.youtube.com/watch?v=7wuDJxpU7Fo) 📹 - Christophe Pettus
