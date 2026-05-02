@@ -38,6 +38,7 @@
 - [PostgreSQL Hacking](https://discord.gg/bx2G9KWyrY)
 - [People, Postgres, Data](https://discord.com/invite/bW2hsax8We)
 - [PostgreSQL Slack workspace](https://pgtreats.info/slack-invite)
+- [PostgreSQL Hacking Workshop](https://github.com/pghacking/workshop)
 
 ### Contributing
 
