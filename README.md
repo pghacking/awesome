@@ -94,6 +94,7 @@
 ### Executor
 
 - [Query Evaluation Techniques in PostgreSQL](https://www.neilconway.org/talks/executor.pdf) - Neil Conway, 2007.
+- [PGCon 2022, Triggers: How It Works in PostgreSQL Internals](https://www.youtube.com/watch?v=qmfT1gpRd7I) 📹 - Yugo Nagata - [slides](https://www.postgresql.eu/events/pgconfeu2022/sessions/session/3931/slides/323/pgconfeu2022_trigger.pdf)
 - [PGConf.EU 2024, PostgreSQL Executor: Executing your execution plan](https://www.youtube.com/watch?v=jFlVjmlicy4) 📹 - Rafia Sabih - [slides](https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5593/slides/565/PgConfEu2024.pdf)
 
 ### Storage
