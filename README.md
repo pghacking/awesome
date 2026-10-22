@@ -15,6 +15,7 @@
     - [Mailing Lists](#mailing-lists)
 - [Core Internals](#core-internals)
     - [Architecture & Overview](#architecture--overview)
+    - [Data Types & Representation](#data-types--representation)
     - [Parser](#parser)
     - [Planner](#planner)
     - [Executor](#executor)
@@ -71,6 +72,10 @@
 - [PostgreSQL Backend Flowchart](https://www.postgresql.org/developer/backend/)
 - [A Comprehensive Overview of PostgreSQL Query Processing Stages](https://www.highgo.ca/2024/01/26/a-comprehensive-overview-of-postgresql-query-processing-stages/) - Cary Huang
 - [PGConf.EU 2024, The Wire Protocol](https://www.youtube.com/watch?v=FBPubrwGKhI) 📹 - Heikki Linnakangas - [slides](https://www.postgresql.eu/events/pgconfeu2024/sessions/session/5897/slides/589/Postgres%20protocol.pdf)
+
+### Data Types & Representation
+
+- [PGConf.dev 2026, Internal data value representation in PostgreSQL](https://www.youtube.com/watch?v=avjSDREthTs) 📹 - [slides](https://www.pgevents.ca/events/pgconfdev2026/sessions/session/474/slides/111/pgconf.dev26%20%20VALUES%20in%20PG.pdf)
 
 ### Parser
 
